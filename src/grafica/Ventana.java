@@ -327,7 +327,7 @@ public void generarNota(){
         if(cjNota1.getText().isEmpty() || cjNota2.getText().isEmpty() || 
                 cjNota3.getText().isEmpty() || cjNota4.getText().isEmpty() ||
                 cjNombre.getText().isEmpty() || cjCodigo.getText().isEmpty()){
-            JOptionPane.showMessageDialog(this, "Alguna de los campos esta vacio.");
+            JOptionPane.showMessageDialog(this, "Alguno de los campos esta vacio.");
             return ;
         }
             

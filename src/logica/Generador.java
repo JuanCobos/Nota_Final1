@@ -50,5 +50,6 @@ public String ultimaOperacion;
     public Map<String, Nota> obtenerLista(){
         return this.listaNotas;
     }
-    
+
+   
 }
